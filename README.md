@@ -22,9 +22,9 @@ Then, run `flutter pub get` to install the package
 
 ### Demonstrations
 
-<img src="assets/clock.gif" height="500" alt= 'clock'/>
-<img src="assets/counter.gif" height="500" alt = 'counter'/>
-<img src="assets/counter_slow.gif" height="500" alt = 'counter_slow'/>
+<img src="https://github.com/marj-international/animated_slide_switcher/blob/main/assets/clock.gif?raw=true" height="500" alt= 'clock'/>
+<img src="https://github.com/marj-international/animated_slide_switcher/blob/main/assets/counter.gif?raw=true" height="500" alt = 'counter'/>
+<img src="https://github.com/marj-international/animated_slide_switcher/blob/main/assets/counter_slow.gif?raw=true" height="500" alt = 'counter_slow'/>
 
 ## Usage
 
