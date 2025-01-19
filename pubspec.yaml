@@ -1,6 +1,7 @@
 name: animated_slide_switcher
 description: "A Flutter package that provides customizable animated slide switching and additional animation utilities."
 version: 0.0.1
+repository: https://github.com/marj-international/animated_slide_switcher/tree/main
 # homepage:
 
 environment:
